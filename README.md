@@ -1,7 +1,5 @@
-# app-store-data-analysis
+# app-store-data-analysis #App Store Data Analysis: Explored Apple App Store data to provide insights for developers. Identified popular genres, pricing strategies, and user rating maximization. Strategic recommendations for app development. SQL-based analysis.
 Apple App Store Insights
-App Store Data Analysis: Explored Apple App Store data to provide insights for developers. Identified popular genres, pricing strategies, and user rating maximization. Strategic recommendations for app development. SQL-based analysis.
-
 Overview
 
 This data analysis project focuses on exploring Apple App Store data using SQL to provide valuable insights for app developers. The dataset contains information about various apps available on the App Store, including genres, pricing, user ratings, and more.
